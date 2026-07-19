@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/muskan337/leetcode/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/muskan337/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/muskan337/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/muskan337/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/muskan337/leetcode/tree/master/0054-spiral-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/muskan337/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
