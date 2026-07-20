@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/muskan337/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/muskan337/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1572-matrix-diagonal-sum](https://github.com/muskan337/leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/muskan337/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/muskan337/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/muskan337/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/muskan337/leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/muskan337/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/muskan337/leetcode/tree/master/0001-two-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/muskan337/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/muskan337/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Math
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/muskan337/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
