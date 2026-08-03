@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/muskan337/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/muskan337/leetcode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/muskan337/leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/muskan337/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/muskan337/leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/muskan337/leetcode/tree/master/0046-permutations) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/muskan337/leetcode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/muskan337/leetcode/tree/master/0027-remove-element) |
 | [0287-find-the-duplicate-number](https://github.com/muskan337/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
