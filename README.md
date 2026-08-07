@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/muskan337/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/muskan337/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/muskan337/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/muskan337/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2965-find-missing-and-repeated-values](https://github.com/muskan337/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/muskan337/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/muskan337/leetcode/tree/master/0567-permutation-in-string) |
 | [0917-reverse-only-letters](https://github.com/muskan337/leetcode/tree/master/0917-reverse-only-letters) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/muskan337/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sliding Window
 |  |
 | ------- |
