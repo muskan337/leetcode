@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/muskan337/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/muskan337/leetcode/tree/master/0567-permutation-in-string) |
 | [0917-reverse-only-letters](https://github.com/muskan337/leetcode/tree/master/0917-reverse-only-letters) |
+| [2047-number-of-valid-words-in-a-sentence](https://github.com/muskan337/leetcode/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muskan337/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Sliding Window
 |  |
