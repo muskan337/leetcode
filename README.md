@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/muskan337/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/muskan337/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muskan337/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/muskan337/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/muskan337/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/muskan337/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/muskan337/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/muskan337/leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/muskan337/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/muskan337/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/muskan337/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/muskan337/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/muskan337/leetcode/tree/master/0567-permutation-in-string) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/muskan337/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/muskan337/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
