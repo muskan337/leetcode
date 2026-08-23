@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/muskan337/leetcode/tree/master/0704-binary-search) |
 | [1572-matrix-diagonal-sum](https://github.com/muskan337/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/muskan337/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/muskan337/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/muskan337/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muskan337/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/muskan337/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -91,12 +92,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/muskan337/leetcode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/muskan337/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0401-binary-watch](https://github.com/muskan337/leetcode/tree/master/0401-binary-watch) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/muskan337/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Math
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/muskan337/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0509-fibonacci-number](https://github.com/muskan337/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/muskan337/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/muskan337/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2965-find-missing-and-repeated-values](https://github.com/muskan337/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/muskan337/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/muskan337/leetcode/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/muskan337/leetcode/tree/master/0401-binary-watch) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/muskan337/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Algorithm X
 |  |
 | ------- |
@@ -164,4 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/muskan337/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/muskan337/leetcode/tree/master/0567-permutation-in-string) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/muskan337/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/muskan337/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
