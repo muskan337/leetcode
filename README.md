@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/muskan337/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/muskan337/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/muskan337/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/muskan337/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/muskan337/leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/muskan337/leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/muskan337/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/muskan337/leetcode/tree/master/0047-permutations-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/muskan337/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/muskan337/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/muskan337/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/muskan337/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/muskan337/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/muskan337/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/muskan337/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/muskan337/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/muskan337/leetcode/tree/master/0090-subsets-ii) |
