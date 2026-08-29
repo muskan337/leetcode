@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/muskan337/leetcode/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/muskan337/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/muskan337/leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/muskan337/leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/muskan337/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/muskan337/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/muskan337/leetcode/tree/master/0040-combination-sum-ii) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/muskan337/leetcode/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/muskan337/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/muskan337/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/muskan337/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -194,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/muskan337/leetcode/tree/master/2596-check-knight-tour-configuration) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/muskan337/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
