@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/muskan337/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/muskan337/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/muskan337/leetcode/tree/master/0136-single-number) |
+| [0229-majority-element-ii](https://github.com/muskan337/leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/muskan337/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/muskan337/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/muskan337/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/muskan337/leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/muskan337/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/muskan337/leetcode/tree/master/0037-sudoku-solver) |
+| [0229-majority-element-ii](https://github.com/muskan337/leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/muskan337/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/muskan337/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/muskan337/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/muskan337/leetcode/tree/master/0047-permutations-ii) |
+| [0229-majority-element-ii](https://github.com/muskan337/leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/muskan337/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/muskan337/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/muskan337/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -211,4 +214,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/muskan337/leetcode/tree/master/0022-generate-parentheses) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/muskan337/leetcode/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/muskan337/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
