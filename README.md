@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/muskan337/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/muskan337/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/muskan337/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/muskan337/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/muskan337/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/muskan337/leetcode/tree/master/0011-container-with-most-water) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/muskan337/leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Sorting
 |  |
 | ------- |
