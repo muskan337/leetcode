@@ -1,22 +1,40 @@
 class Solution {
 public:
     vector<vector<int>> permute(vector<int>& nums) {
-        vector<vector<int>> ans;
-        permutate(nums, ans, 0);
-        return ans;
+        vector<int> ans;
+        vector<vector<int>> allPer;
+        vector<bool> isUsed(nums.size(), false);
+
+        permu(nums, ans, allPer, isUsed);
+        return allPer;
     }
 
-    void permutate(vector<int> &nums, vector<vector<int>> &ans, int idx){
-      int n = nums.size();
-      if(idx == n){
-        ans.push_back(nums);
-        return;
-      }
+    void permu(vector<int> &nums, 
+    vector<int> &ans, 
+    vector<vector<int>> &allPer, 
+    vector<bool> &isUsed){
 
-      for(int i = idx; i<n; i++){
-        swap(nums[i], nums[idx]);
-        permutate(nums, ans, idx+1);
-        swap(nums[i], nums[idx]);
-      }
+        int n = nums.size();
+        int i = ans.size();
+        if(i == n){
+            allPer.push_back(ans);
+            return;
+        }
+
+        for(int i=0; i<n; i++){
+
+            if(isUsed[i] == true){
+                continue;
+            }
+        
+
+        ans.push_back(nums[i]);
+            isUsed[i] = true;
+
+            permu(nums, ans, allPer, isUsed);
+
+            ans.pop_back();
+            isUsed[i] = false;
+        }
     }
 };
